@@ -1,0 +1,6 @@
+HP@BanalaNidish MINGW64 ~/gitworkstation/test-repo46 (master)
+$ git config --global user.email "nidishbanala009@gmail.com"
+
+HP@BanalaNidish MINGW64 ~/gitworkstation/test-repo46 (master)
+$ git config --global user.name "nidishbanala"
+
